@@ -11,10 +11,8 @@ for uploading to a repository
 
 1. Start GitBash inside the folder you want to upload
 2. git init
-(3. git status)
-4. git add .
-(5. git status)
-6. git commit -m "first commit" .
-7. git remote add origin repositoryURL
-8. git push -u origin master
-9. enter username and password
+3. git add .
+4. git commit -m "first commit" .
+5. git remote add origin repositoryURL
+6. git push -u origin master
+7. enter username and password
